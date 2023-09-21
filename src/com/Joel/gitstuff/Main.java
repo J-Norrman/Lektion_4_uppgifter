@@ -2,7 +2,6 @@ package com.Joel.gitstuff;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello git this is master");
-        //
+        System.out.println("hello git");
     }
 }
