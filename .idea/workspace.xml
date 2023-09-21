@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -7,11 +8,16 @@
     <list default="true" id="79a1796a-0dca-47da-aa17-00f9a222852a" name="Changes" comment="first commit">
       <change afterPath="$PROJECT_DIR$/src/com/Joel/gitstuff/models/classTwo.java" afterDir="false" />
     </list>
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="79a1796a-0dca-47da-aa17-00f9a222852a" name="Changes" comment="" />
+>>>>>>> ac05102f3d45b38d8b7f762c9b09075b8162498c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,6 +28,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+>>>>>>> ac05102f3d45b38d8b7f762c9b09075b8162498c
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -34,8 +42,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+<<<<<<< HEAD
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+=======
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+>>>>>>> ac05102f3d45b38d8b7f762c9b09075b8162498c
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695294023696</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL−00001" summary="first commit">
       <option name="closed" value="true" />
       <created>1695294569208</created>
@@ -61,4 +74,8 @@
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
+=======
+    <servers />
+  </component>
+>>>>>>> ac05102f3d45b38d8b7f762c9b09075b8162498c
 </project>
